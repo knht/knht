@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<h4 align="center"><samp> Hi there 👋🏻  welcome to my GitHub! I'm a Software Engineering student who's most familiar with Node.js backend development, microservice oriented architecture and distributed systems. 💻 ☁️ </samp></h4>
+
+<p align="center"><samp>
+Check out my featured repositories ⬇️  
+  </samp>
+</p>
 
 <!--
 **knht/knht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
