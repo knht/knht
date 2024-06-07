@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there 👋🏻  welcome to my GitHub! I'm a Software Engineering student who's most familiar with Node.js backend development, microservice oriented architecture and distributed systems. 💻 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏻  welcome to my GitHub! I'm a Cloud Architect who's most familiar with everything AWS, Node.js backend development, microservice oriented architecture and distributed systems. 💻 ☁️ </samp></h4>
 
 <p align="center"><samp>
 Check out my featured repositories ⬇️  
